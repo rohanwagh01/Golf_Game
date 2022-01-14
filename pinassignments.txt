@@ -1,0 +1,16 @@
+Pin Assignments:
+
+redLED pwm: IO27
+blueLED pwm: IO32
+greenLED pwm: IO33
+
+button 1(top right): IO5
+button 2(bottom right):IO12
+button 3(top left):IO15
+button 4(bottom left):IO14
+
+Microphone: A0
+
+Speaker: D26
+
+IMU and TFT assigments same as always.
